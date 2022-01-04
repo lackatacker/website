@@ -1,0 +1,28 @@
+            <a href="https://github.com/lackatacker" target=" ">
+              <i class="fab fa-github margin" ></i><span>Github</span></a><br>
+
+            <a href="https://www.instagram.com/salah.azzouzi/" target=" ">
+              <i class="fab fa-instagram margin"></i><span>Instagram</span></a><br>
+
+            <a href="https://twitter.com/salah_azzouzi" target=" ">
+              <i class="fab fa-twitter   margin"></i><span>Twitter</span></a><br>
+
+            <a href="https://www.youtube.com/channel/UCiJoIGTM7O4DhV5q6qwi03g" target=" ">
+              <i class="fab fa-youtube margin"></i><span>Youtube</span></a><br>
+			  
+			  
+			     <div class="wrapper">       
+              <div class="button">
+                  <div class="icon">
+                        <a href="https://web.facebook.com/profile.php?id=100069734423067" target=" ">
+                        <i class="fab fa-facebook margin"></i>
+                  </div>
+                        <span>Facebook</span></a><br>
+              </div>    
+              <div class="button">
+                  <div class="icon">
+                        <a href="https://github.com/lackatacker" target=" ">
+                        <i class="fab fa-github margin"></i>
+                  </div>
+                        <span>Github</span></a><br>
+              </div>

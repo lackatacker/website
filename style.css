@@ -1,0 +1,83 @@
+body {
+	background-color: #F5F5DC
+
+}
+ul {
+	list-style-type: none;
+}
+h2 {
+	color: #2F4F4F;
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	margin: 0px 30px;
+}
+.img-circle {
+	border-radius: 50%;
+}
+.logos{
+	width: 100px;
+}
+li {
+	font-family: 'Lora';
+	color:  black;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #000;
+}
+.mydiv {
+	border-radius: 10px;
+	margin: 8px auto;
+	border-width: 3px;
+	width: 50%;
+	border: 1px solid #B0C4DE;
+	background-color: rgb(230,230,230);
+	text-align: center;
+}
+.social-media {
+	border-radius: 10px;
+	margin: 15px auto;
+	border-width: 3px;
+	width: 50%;
+	border: 1px solid #B0C4DE;
+	background-color: rgb(230,230,230);
+	text-align: center;
+}
+.social-media .fa{
+	font-size: 30px;
+	width: 45px;
+	height: 45px;
+	background-color: #fff;
+	border-radius: 50%;
+	line-height: 50px;
+	box-shadow: 0px 4px 10px rgba(0,0,0,.5);
+}
+.social-media .fa:hover{
+	transform: translate(0, -10px);
+}
+.social-media li {
+	display: inline;
+}
+a:link{
+    text-decoration: none;
+}
+i {
+	margin-right: 40px;
+}
+
+
+.social-media ul li:nth-child(1) .fa:hover {
+	background-color: #cd486b;
+}
+.social-media ul li:nth-child(2) .fa:hover {
+	color: #FF0000;
+}
+.social-media ul li:nth-child(3) .fa:hover {
+	background-color: #fff;
+}
+.social-media ul li:nth-child(4) .fa:hover {
+	background-color: #3b5998;
+	color: #fff;
+}
