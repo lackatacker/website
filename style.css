@@ -68,16 +68,24 @@ i {
 }
 
 
-.social-media ul li:nth-child(1) .fa:hover {
+.social-media ul li:nth-child(1) .fa {
 	background-color: #cd486b;
 }
-.social-media ul li:nth-child(2) .fa:hover {
+.social-media ul li:nth-child(2) .fa {
 	color: #FF0000;
 }
-.social-media ul li:nth-child(3) .fa:hover {
+.social-media ul li:nth-child(3) .fa {
 	background-color: #fff;
 }
-.social-media ul li:nth-child(4) .fa:hover {
+.social-media ul li:nth-child(4) .fa {
 	background-color: #3b5998;
+	color: #fff;
+}
+.social-media ul li:nth-child(5) .fa {
+	background-color: #0e76a8 ;
+	color: #fff;
+}
+.social-media ul li:nth-child(6) .fa {
+	background-color: #1DA1F2 ;
 	color: #fff;
 }
