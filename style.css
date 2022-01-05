@@ -44,6 +44,7 @@ a:visited{
 	border: 1px solid #B0C4DE;
 	background-color: rgb(230,230,230);
 	text-align: center;
+	height: 150px;
 }
 .social-media .fa{
 	font-size: 30px;
@@ -73,7 +74,8 @@ i {
 
 
 .social-media ul li:nth-child(1) .fa {
-	background-color: #cd486b;
+	color: #fff;
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 }
 .social-media ul li:nth-child(2) .fa {
 	color: #FF0000;
